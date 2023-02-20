@@ -17,6 +17,6 @@ I then used clustering algorithms to group spotify data songs that are similar t
 Duo Deng
 
 ## Acknowledgements
-Billboard
-Spotify
+- Billboard
+- Spotify
 
